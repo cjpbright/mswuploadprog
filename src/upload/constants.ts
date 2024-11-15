@@ -1,0 +1,1 @@
+export const uploadServiceLocation = 'http://localhost:5173/upload';
